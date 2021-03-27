@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{w2l6:function(t,n,e){"use strict";e.r(n);e("q1tI");var u=e("Bl7J"),c=e("vrFN"),o=e("qKvR");n.default=function(){return Object(o.c)(u.a,null,Object(o.c)(c.a,{title:"404: Not found"}),Object(o.c)("h1",null,"404: Not Found"),Object(o.c)("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-7a3d672e8b56bf8f68ae.js.map
