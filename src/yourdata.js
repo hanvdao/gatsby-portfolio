@@ -28,10 +28,10 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "currently looking for internship opportunities and open for work and collaboration",
+    "currently looking for front-end internship opportunities and open for work and collaboration",
 
   //Contact Email
-  contactEmail: "trieuhan.dao@gmail.com",
+  contactEmail: "hanvdao@gmail.com",
 
   // End Header Details -----------------------
 
@@ -136,38 +136,32 @@ export default {
     {
       id: 1,
       img: htmlIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      para: "HTML3",
     },
     {
       id: 2,
       img: cssIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      para: "CSS3",
     },
     {
       id: 3,
       img: jsIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      para: "Javascript",
     },
     {
       id: 4,
       img: reactIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      para: "React",
     },
     {
       id: 5,
       img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      para: "Graphic Design",
     },
     {
       id: 6,
       img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      para: "Java",
     },
   ],
 
