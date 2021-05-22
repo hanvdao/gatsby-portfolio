@@ -39,69 +39,58 @@ export default {
   projects: [
     {
       id: 1, //DO NOT CHANGE THIS (Please)😅
-      title: "Project One", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      title: "Etch A Sketch", //Project Title - Add Your Project Title Here
+      para: "An Etch A Sketch simulation made with HTML, CSS, and Javascript!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: require("./images/etch-a-sketch.png"),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://hanvdao.github.io/etch-a-sketch/",
     },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Two", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      title: "Calculator", //Project Title - Add Your Project Title Here
+      para: "A calculator app made using JavaScript, HTML, and CSS!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: require("./images/calculator.png"),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://hanvdao.github.io/js-calculator/",
     },
     {
       id: 3, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Three", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      title: "Library", //Project Title - Add Your Project Title Here
+      para: "A library platform that helps track your reading list.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: require("./images/library.png"),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://hanvdao.github.io/js-library/",
     },
     {
       id: 4, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Four", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      title: "Drum Kit", //Project Title - Add Your Project Title Here
+      para: "A drum kit simulation made with HTML, CSS, and Javascript!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: require("./images/drum-kit.png"),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://hanvdao.github.io/js-drum-kit/",
     },
     {
       id: 5, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Five", //Project Title - Add Your Project Title Here
+      title: "Glass Website", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A website template implemented with glassmorphism/frosted glass aesthetic", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: require("./images/glass-website.png"),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://hanvdao.github.io/glassmorphism/",
     },
     {
       id: 6, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Six", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      title: "Rock Paper Scissors", //Project Title - Add Your Project Title Here
+      para: "A Rock-Paper-Scissors game made with HTML, CSS, and Javascript!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: require("./images/rock-paper-scissors.png"),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://hanvdao.github.io/rock-paper-scissors/",
     },
 
     /*
@@ -170,8 +159,7 @@ export default {
   //   Promotion Section --------------------------
 
   promotionHeading: "Art Portfolio",
-  promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  promotionPara: "coming soon...",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
